@@ -1,0 +1,24 @@
+{
+  "name": "faucethubapi",
+  "version": "1.0.4",
+  "description": "Unofficial module for faucethub.io API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "faucethub",
+    "faucet",
+    "api"
+  ],
+  "author": "StatorCrime",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntoninLefevre/faucethubapi"
+  }
+}
+
